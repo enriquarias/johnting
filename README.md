@@ -1,2 +1,2 @@
-# johnting
+# johncoin
 jsonfile
